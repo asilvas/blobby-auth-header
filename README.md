@@ -32,7 +32,7 @@ module.exports = {
 | Option | Type | Default | Desc |
 | --- | --- | --- | --- |
 | apiKey | string | (required) | Secret to access secure routes in Blobby REST API |
-| test | RegExp | `/apikey\s(.*)/` | Expression used to parse HTTP Authorization header |
+| test | RegExp | `/apikey\s(.*)/i` | Expression used to parse HTTP Authorization header |
 
 
 ### Secrets
