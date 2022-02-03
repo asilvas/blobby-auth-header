@@ -1,6 +1,6 @@
 {
   "name": "blobby-auth-header",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "HTTP Authorization client for Blobby",
   "main": "src",
   "scripts": {
